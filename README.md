@@ -8,7 +8,7 @@ This project has step by step instructions on how to wrangle data, create charts
 
 This was one of the first projects for completion of the Udacity Data Analytics Nanodegree (DAND).
 
-The word document is the review by Udacity team.
+The pdf document is the review by Udacity team.
 
 I was a new python / jupyter notebook learner at this point.
 I've since received / completed the Udacity certificate for the Data Analytics Nanodegree, 
