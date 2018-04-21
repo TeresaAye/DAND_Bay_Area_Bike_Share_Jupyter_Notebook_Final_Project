@@ -4,7 +4,7 @@ This is a project that I completed for the Udacity Data Analyst Nanodegree Intro
 I used Jupyter Notebook to do an analysis of the Bay Area Bike Share Data.
 
 Open the html
-or open the zip folder and run the ipynb
+or run the ipynb
 
 This project has step by step instructions on how to wrangle data, create charts, etc.
 
